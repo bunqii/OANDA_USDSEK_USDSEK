@@ -6,7 +6,7 @@
   "chunk_end": "2029-12-31",
   "parquet_file": "OANDA_USDSEK_USDSEK_D_2020-01-01_to_2029-12-31.parquet",
   "data_file": "OANDA_USDSEK_USDSEK_D_2020-01-01_to_2029-12-31.parquet",
-  "row_count": 1765,
+  "row_count": 1766,
   "first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -17,16 +17,16 @@
     "volume": 503221
   },
   "last_candle": {
-    "time": 1792443600,
-    "Time": "2026-10-19T21:00:00.000000000Z",
-    "open": 9.921,
-    "high": 9.92585,
-    "low": 9.86142,
-    "close": 9.8939,
-    "volume": 154487
+    "time": 1792530000,
+    "Time": "2026-10-20T21:00:00.000000000Z",
+    "open": 9.89554,
+    "high": 9.9173,
+    "low": 9.87156,
+    "close": 9.88645,
+    "volume": 148738
   },
   "csv_file": "OANDA_USDSEK_USDSEK_D_2020-01-01_to_2029-12-31.parquet",
-  "csv_row_count": 1765,
+  "csv_row_count": 1766,
   "csv_first_candle": {
     "time": 1577916000,
     "Time": "2020-01-01T22:00:00.000000000Z",
@@ -37,17 +37,17 @@
     "volume": 503221
   },
   "csv_last_candle": {
-    "time": 1792443600,
-    "Time": "2026-10-19T21:00:00.000000000Z",
-    "open": 9.921,
-    "high": 9.92585,
-    "low": 9.86142,
-    "close": 9.8939,
-    "volume": 154487
+    "time": 1792530000,
+    "Time": "2026-10-20T21:00:00.000000000Z",
+    "open": 9.89554,
+    "high": 9.9173,
+    "low": 9.87156,
+    "close": 9.88645,
+    "volume": 148738
   },
   "status": "VERIFIED_PARTIAL",
-  "verified_at": "2026-10-20T22:08:26.000000000Z",
-  "generated_at": "2026-10-20T22:08:26.000000000Z",
+  "verified_at": "2026-10-22T04:50:43.000000000Z",
+  "generated_at": "2026-10-22T04:50:43.000000000Z",
   "download_request": {
     "total_api_blocks_in_run": 1,
     "chunk_api_blocks": 1,
@@ -55,8 +55,8 @@
     "permanent_error_details": [],
     "all_block_outcomes": [
       {
-        "from": "2026-10-15T20:55:00Z",
-        "to": "2026-10-20T21:00:00Z",
+        "from": "2026-10-18T21:00:00Z",
+        "to": "2026-10-21T21:00:00Z",
         "code": 200,
         "msg": "OK"
       }
